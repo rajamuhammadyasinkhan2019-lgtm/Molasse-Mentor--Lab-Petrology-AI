@@ -1,0 +1,7 @@
+{
+  "name": "Molasse Mentor – Lab & Petrology AI",
+  "description": "A multimodal petrographic and provenance analysis platform for foreland basin sandstones and orogenic systems, featuring QFL plotting, geochemical modeling, and advanced reasoning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
